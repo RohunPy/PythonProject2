@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="365c8e20-bc66-4bc0-84b0-13fe2cd2e02d" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Norway Flag Homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle May 28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/road.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,12 +53,20 @@
     "Python.Target.executor": "Run",
     "Python.Turtle 2 HW Smiley.executor": "Run",
     "Python.Turtle 2 HW Star.executor": "Run",
+    "Python.Turtle May 28.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.turtle test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/rgund/PycharmProjects/PythonProject2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rgund\PycharmProjects\PythonProject2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -112,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747878052190</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test">
+      <option name="closed" value="true" />
+      <created>1748381191763</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748381191763</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
